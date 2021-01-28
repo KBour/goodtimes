@@ -5,11 +5,11 @@ Bonus: If you attend all 4 days you get a certificate – great for resume build
 
 
 Rangeforce: 
- I took some time over the break to check it out. They do offer some free content, though full access does cost $$ even for students. If someone is looking for some practical defender training it may be worth checking into. I had hoped to be able to get a write-up done on the modules I have completed so I could share more info, but I haven’t had time and here we are in a new semester!  I’ll catch up with myself eventually. This is more in depth and more like hands-on training. 
+ There is a free community edition with a selection of modules, and a student edition that offers access to the full site at a discount (need an .edu email address and badges/certs are not included).
 Links and contact info: 
 Free Community edition with a sampling of 20 modules: registration link: https://go.rangeforce.com/free-cyber-security-training-community-edition
 
-Student edition with full access to entire platform (NOTE: doesn’t earn badges/certs):  $150/year (requires .edu email) Contact: zach.shores@rangeforce.com
+Student edition with full access to entire platform Contact: zach.shores@rangeforce.com
 
 LetsDefendIO
 This one’s pretty new I have only looked over a couple of the modules but they look pretty basic.
